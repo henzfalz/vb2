@@ -66,7 +66,7 @@ ki9.loginResult()
 ki10 = VIPRO.LINE() #Ghost
 ki10.login(token="EsFegk25CI4VaGZdrSnc.Rn29fH0iyRm8c4OOYliz3a.z18vxQYjaFB9Mu4F3WHopW71tZ+wE1mY/Y6S7eGGmP0=")
 ki10.loginResult()
-print "═══「FaL login success」═══"
+print ("═══「FaL login success」═══")
 reload(sys)
 sys.setdefaultencoding('utf-8')
 helpMenu="""╔═══「 FallaH 」═══╗
