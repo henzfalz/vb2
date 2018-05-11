@@ -20,56 +20,56 @@ else:
     import urllib.parse
 
 owner = VIPRO.LINE() #Akun Utama
-owner.login(token="token")
+owner.login(token="EssBuJdQzzm70e4GjW59.tJMxRtazVZT1pqzL9twcUq.xovFhIfjkjwfw12n6Frk8oTSH8+samci+/wkFCFV5Bs=")
 owner.loginResult()
     
 vipro = VIPRO.LINE()
-vipro.login(token="token")
+vipro.login(token="EsoUbkXOFw5ZRw9SBW09.9bQwpKLmr2D7kxzgXdpQ2q.6AwUeX+pCRehgOMdoct1WvuWMRM+YgXVXDZjr2OxJZo=")
 vipro.loginResult()
 
 ki = VIPRO.LINE()
-ki.login(token="token")
+ki.login(token="Esa8rR71wYalCzzXEQNb./lw+YtXudIBDn/Xz4DCTEW.IsxnBLwDtSWVhptPTDGurChiNgHggt57isrpv1I9VAM=")
 ki.loginResult()
 
 ki2= VIPRO.LINE()
-ki2.login(token="token")
+ki2.login(token="EssyL9dVlVxiSahdNRD3.m1aV81JnSeesBoRxfLqiuW.GyNyqGMhGbFDNHbs+2WkcZjF6cTriGE1flsjtkeN4+E=")
 ki2.loginResult()
 
 ki3 = VIPRO.LINE()
-ki3.login(token="token")
+ki3.login(token="Es9NuVtDCQiPU6i24sYd.qAcjsqcRbAG4/SDfoZHNBq.sp0OfJyZLVKFpESl7tSLnsvrGIgNIwhnhJ/K5BXF7pw=")
 ki3.loginResult()
 
 ki4 = VIPRO.LINE()
-ki4.login(token="token")
+ki4.login(token="EsZlpAMlFYBAmxzDpQu0.wBO2uw4nFNqixrJ4YHXvqa.EZUn3mRz6qJrkel4S2jtsZUKDztNLKRbqCgo3J7y8Pw=")
 ki4.loginResult()
 
 ki5 = VIPRO.LINE()
-ki5.login(token="token")
+ki5.login(token="EsxgqPnTVxU10XYfyJv8.Z8wYOA/x0tlGZ0eg+oPqAa.MKX/iYpvbq6vjNkD2pQ7OBBI8q6jLo1yXZAuQGPaDV4=")
 ki5.loginResult()
 
 ki6 = VIPRO.LINE()
-ki6.login(token="token")
+ki6.login(token="EsIjWL7JQ2mOrIW4uLG1.vJdVG9LZC2Eqa8qeVzymSq.G4z/KRY4Bs70mOZmT/BUBzfH3jqLmAGId6S369HP75M=")
 ki6.loginResult()
 
 ki7 = VIPRO.LINE()
-ki7.login(token="token")
+ki7.login(token="EsoQKbVgNG7CviRLxt17.fpgsDt03hI/Lx6lSy73ZzW.PlPRVH558s0zmymwZT0EOnAjfblWNo4LjbmU5Sf8DFA=")
 ki7.loginResult()
 
 ki8 = VIPRO.LINE()
-ki8.login(token="token")
+ki8.login(token="EsuBMphH3axMdPJd9dbe.8c7BjpOR1OqYXBJflNiJRG.+jbYautWv3vSy4UFeWKNjtlmQ+jt4VREVD4ZIDMKcxw=")
 ki8.loginResult()
 
 ki9 = VIPRO.LINE()
-ki9.login(token="token")
+ki9.login(token="EsYbqfPMbnY2keMYukn9.C97YbBfhX/Cb0znlpf8ewq.jH2jC/8hB8o8YJEX0v24YFrD6tL9Snc6Dnf274FAQio=")
 ki9.loginResult()
 
 ki10 = VIPRO.LINE() #Ghost
-ki10.login(token="token")
+ki10.login(token="EsFegk25CI4VaGZdrSnc.Rn29fH0iyRm8c4OOYliz3a.z18vxQYjaFB9Mu4F3WHopW71tZ+wE1mY/Y6S7eGGmP0=")
 ki10.loginResult()
-print "═══「vipro login success」═══"
+print "═══「ғᴀʟʟ-ʙᴏᴛ login success」═══"
 reload(sys)
 sys.setdefaultencoding('utf-8')
-helpMenu="""╔═══「 ᴠɪᴘʀᴏ ʙᴏᴛ」═══╗
+helpMenu="""╔═══「 ғᴀʟʟ-ʙᴏᴛ」═══╗
 ╠╦═══════════════
 ║║🔰 Me
 ║║🔰 Add
@@ -136,9 +136,9 @@ helpMenu="""╔═══「 ᴠɪᴘʀᴏ ʙᴏᴛ」═══╗
 ║║🔰 Pmfavorite
 ║║🔰 Broken
 ╠╩═══════════════
-╚═══「 ᴠɪᴘʀᴏ ʙᴏᴛ」═══╝
+╚═══「 ғᴀʟʟ-ʙᴏᴛ」═══╝
   """
-helpMessage="""╔═══「 ᴠɪᴘʀᴏ ʙᴏᴛ」═══╗
+helpMessage="""╔═══「 ғᴀʟʟ-ʙᴏᴛ」═══╗
 ╠╦═══════════════
 ║║🔵 「Menu」
 ║║🔵 「Media」
@@ -147,9 +147,9 @@ helpMessage="""╔═══「 ᴠɪᴘʀᴏ ʙᴏᴛ」═══╗
 ║║🔵 「Settings」
 ║║🔵 「Set」
 ╠╩═══════════════
-╚═══「 ᴠɪᴘʀᴏ ʙᴏᴛ」═══╝
+╚═══「 ғᴀʟʟ-ʙᴏᴛ」═══╝
 """  
-helpMedia="""╔═══「 ᴠɪᴘʀᴏ ʙᴏᴛ」═══╗
+helpMedia="""╔═══「 ғᴀʟʟ-ʙᴏᴛ」═══╗
 ╠╦═══════════════
 ║║🔘 Youtube 「 text」
 ║║🔘 Youtubesearch 「 user」
@@ -201,9 +201,9 @@ helpMedia="""╔═══「 ᴠɪᴘʀᴏ ʙᴏᴛ」═══╗
 ║║🔘 Wikipedia 「 text」
 ║║🔘 Checkdate 「 ttl」
 ╠╩═══════════════
-╚═══「 ᴠɪᴘʀᴏ ʙᴏᴛ」═══╝
+╚═══「 ғᴀʟʟ-ʙᴏᴛ」═══╝
 """
-helpFun = """╔═══「 ᴠɪᴘʀᴏ ʙᴏᴛ」═══╗
+helpFun = """╔═══「 ғᴀʟʟ-ʙᴏᴛ」═══╗
 ╠╦═══════════════
 ║║🔰 sider:「 text」
 ║║🔰 tagme:「 text」
@@ -212,10 +212,10 @@ helpFun = """╔═══「 ᴠɪᴘʀᴏ ʙᴏᴛ」═══╗
 ║║🔰 message set:「 text」
 ║║🔰 cekresponse
 ╠╩═══════════════
-╚═══「 ᴠɪᴘʀᴏ ʙᴏᴛ」═══╝
+╚═══「 ғᴀʟʟ-ʙᴏᴛ」═══╝
 """
 helpself="""
-╔═══「 ᴠɪᴘʀᴏ ʙᴏᴛ」═══╗
+╔═══「 ғᴀʟʟ-ʙᴏᴛ」═══╗
 ╠╦═══════════════
 ║║💠 Fuck1/10 "@"
 ║║💠 Kick1/10 "@"
@@ -237,9 +237,9 @@ helpself="""
 ║║💠 Allbio 「 status」
 ║║💠 Botbyeall  
 ╠╩═══════════════
-╚═══「 ᴠɪᴘʀᴏ ʙᴏᴛ」═══╝
+╚═══「 ғᴀʟʟ-ʙᴏᴛ」═══╝
   """
-helpset="""╔═══「 ᴠɪᴘʀᴏ ʙᴏᴛ」═══╗
+helpset="""╔═══「 ғᴀʟʟ-ʙᴏᴛ」═══╗
 ╠╦═══════════════
 ║║🔶 Ban:on/Unbl:on
 ║║🔶 Contact:on/off
@@ -270,10 +270,10 @@ helpset="""╔═══「 ᴠɪᴘʀᴏ ʙᴏᴛ」═══╗
 ║║🔶 Ghost:on/off
 ║║🔶 Allprotect:on/off
 ╠╩═══════════════
-╚═══「 ᴠɪᴘʀᴏ ʙᴏᴛ」═══╝
+╚═══「 ғᴀʟʟ-ʙᴏᴛ」═══╝
 """
 translateMessage ="""
-╔═══「 ᴠɪᴘʀᴏ ʙᴏᴛ」═══╗
+╔═══「 ғᴀʟʟ-ʙᴏᴛ」═══╗
 ╠╦═══════════════
 ║║🔴 Afrika/
 ║║🔴 Albanian/
@@ -326,7 +326,7 @@ translateMessage ="""
 ║║🔴 Vietnam/
 ║║🔴 Welsh/
 ╠╩═══════════════
-╚═══「 ᴠɪᴘʀᴏ ʙᴏᴛ」═══╝
+╚═══「 ғᴀʟʟ-ʙᴏᴛ」═══╝
 """
 KAC=[vipro,ki,ki2,ki3,ki4,ki5,ki6,ki7,ki8,ki9,ki10]
 DEF=[vipro,ki,ki2,ki3,ki4,ki5,ki6,ki7,ki8,ki9,ki10]
@@ -342,10 +342,10 @@ ki8mid = ki8.getProfile().mid
 ki9mid = ki9.getProfile().mid
 ki10mid = ki10.getProfile().mid
 Smid = owner.getProfile().mid
-Bots=[mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid,ki6mid,ki7mid,ki8mid,ki9mid,ki10mid,Smid,"uda936836a9869eb86ec8ab992a4e8979"]
-admin=[mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid,ki6mid,ki7mid,ki8mid,ki9mid,Smid,"uda936836a9869eb86ec8ab992a4e8979","ue4e13b0a41d848845489374e671c6861","ub21eb3d440e0dfd640eef9f2fb5ce02d","u782cdf7a9fd2545c84a0cd86f418e9f7","u799da4e06d50e1775cfcff1f3e59df03"]
-creator=["uda936836a9869eb86ec8ab992a4e8979"]
-admsa=["uda936836a9869eb86ec8ab992a4e8979"]
+Bots=[mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid,ki6mid,ki7mid,ki8mid,ki9mid,ki10mid,Smid,"u4e3997ad3019bf3b753d0665f53582b9"]
+admin=[mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid,ki6mid,ki7mid,ki8mid,ki9mid,Smid,"u4e3997ad3019bf3b753d0665f53582b9","u530b8459bbe36cc0652f7f976d9d917c"]
+creator=["u4e3997ad3019bf3b753d0665f53582b9"]
+admsa=["u4e3997ad3019bf3b753d0665f53582b9"]
 
 readOpen = codecs.open("st2__b.json","r","utf-8")
 read = json.load(readOpen)
@@ -1283,7 +1283,7 @@ def bot(op):
                     vipro.sendText(msg.to,msg.text)
             elif msg.text is None:
                 return
-            elif msg.text in ["Botallbye"]: 
+            elif msg.text in ["bye"]: 
               if msg.from_ in creator:    
                 gid = ki.getGroupIdsJoined()
                 gid = ki2.getGroupIdsJoined()
@@ -1680,7 +1680,7 @@ def bot(op):
                 ki9.sendMessage(msg)
             elif "Creator" == msg.text:
                 msg.contentType = 13
-                msg.contentMetadata = {'mid': 'uda936836a9869eb86ec8ab992a4e8979'}
+                msg.contentMetadata = {'mid': 'u4e3997ad3019bf3b753d0665f53582b9'}
                 vipro.sendMessage(msg)
             elif msg.text in ["B1 gift"]:
                 msg.contentType = 9
@@ -2599,7 +2599,7 @@ def bot(op):
                     vipro.sendText(msg.to,"old user")
             elif cms(msg.text,["Add"]):
                 msg.contentType = 13
-                msg.contentMetadata = {'mid': 'uda936836a9869eb86ec8ab992a4e8979'}
+                msg.contentMetadata = {'mid': 'u4e3997ad3019bf3b753d0665f53582b9'}
                 vipro.sendText(msg.to,"❂•••••••••✧••••••••••❂")
                 vipro.sendMessage(msg)
             elif "Tagme: " in msg.text:
@@ -4281,8 +4281,8 @@ def bot(op):
 #------------------------------------------------------------
             elif msg.text in ["Admin","admin"]:
                 msg.contentType = 13
-                admin1 = "uda936836a9869eb86ec8ab992a4e8979"
-                admin2 = "ub21eb3d440e0dfd640eef9f2fb5ce02d"
+                admin1 = "u530b8459bbe36cc0652f7f976d9d917c"
+                admin2 = "m"
                 admin3 = "u782cdf7a9fd2545c84a0cd86f418e9f7"
                 admin4 = "ue4e13b0a41d848845489374e671c6861"
                 admin5 = "u799da4e06d50e1775cfcff1f3e59df03"
@@ -5384,7 +5384,7 @@ def bot(op):
         if op.type == 5:
             if wait["autoAdd"] == True:
             	c = Message(to=op.param1, from_=None, text=None, contentType=13)
-                c.contentMetadata={'mid':'uda936836a9869eb86ec8ab992a4e8979'}
+                c.contentMetadata={'mid':'..'}
                 vipro.sendImageWithURL(op.param1,"http://dl.profile.line-cdn.net/0h9lRSzNuMZkNvKkqg8-AZFFNvaC4YBGALF0t9dhh9OHZBTihABk0hcU55bCdEE3UcVhh6dx4jOXdD")
                 if (wait["message"] in [""," ","\n",None]):
                     pass
